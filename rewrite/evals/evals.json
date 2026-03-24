@@ -1,0 +1,25 @@
+{
+  "skill_name": "rewrite",
+  "evals": [
+    {
+      "id": 0,
+      "name": "corporate-email-jargon",
+      "prompt": "Rewrite this email:\n\nSubject: Follow-up on Q3 Strategy Discussion\n\nHi Team,\n\nI wanted to follow up on our recent discussion regarding the Q3 strategic initiatives. As you may know, we have been in the process of evaluating our current approach to customer acquisition and it has come to our attention that there are several areas where we could potentially leverage synergies across departments to optimize our pipeline velocity.\n\nIt is important to remember that the competitive landscape has shifted significantly, and we need to ensure we have the bandwidth to facilitate a cross-functional dialogue around these key priorities. We have noticed that four-day workweeks have become a standard perk, more prevalent than the foosball table and on-site dry cleaning.\n\nI'd like to circle back with each of you to discuss next steps and ensure alignment on our go-forward strategy. Please let me know your availability for a meeting next week.\n\nBest regards,\nSarah",
+      "expected_output": "Should strip jargon (leverage synergies, bandwidth, facilitate, circle back, go-forward strategy, alignment), lead with the actual point, use plain language, end with a specific action and deadline. Output should be clean copy only — no preamble or explanation.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "data-summary-buried-lead",
+      "prompt": "Rewrite this data summary for our executive leadership team:\n\nOur team conducted an extensive analysis of customer satisfaction metrics over the past two quarters. The methodology involved surveying 2,500 customers across three product lines using a standardized Net Promoter Score instrument. Data collection occurred between January and June. Response rates were 34% for Product A, 28% for Product B, and 41% for Product C. Statistical significance was achieved at the 95% confidence level for all three product lines.\n\nThe findings indicate that the overall Net Promoter Score increased from 42 to 51, which represents a statistically significant improvement. However, when we segment the data further, we observe an increasingly polarized customer base. The proportion of promoters (score 9-10) increased from 38% to 47%, while detractors (score 0-6) also increased from 18% to 24%. The passive segment (score 7-8) decreased correspondingly from 44% to 29%.\n\nBased on these findings, we recommend further investigation into the drivers of detractor sentiment to prevent potential churn in the high-risk segment.",
+      "expected_output": "Should lead with the insight (polarization problem hiding behind a healthy NPS), not the methodology. Should frame what's at stake for the execs. Should end with clear recommendation/action. Methodology details should be minimal or cut entirely. Output should be clean copy only.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "product-announcement-company-centric",
+      "prompt": "Rewrite this product announcement for our customers:\n\nWe are excited to announce the launch of our new Advanced Analytics Dashboard! Our team has been working tirelessly for the past 18 months to develop this cutting-edge solution. The dashboard utilizes state-of-the-art machine learning algorithms and has been built using the latest cloud-native architecture. We believe this represents a significant milestone in our company's journey to become the industry-leading provider of data analytics solutions.\n\nKey features include:\n- Real-time data processing capabilities\n- Customizable visualization widgets\n- Advanced predictive modeling\n- Seamless integration with existing workflows\n- Enterprise-grade security\n\nWe are confident that this new product will revolutionize the way our customers interact with their data. Please contact your account representative to schedule a demo.",
+      "expected_output": "Should flip from company-centric (we/our) to customer-centric (you/your). Should lead with the customer's problem it solves, not how long it took to build. Should replace buzzwords (cutting-edge, state-of-the-art, revolutionize) with specific benefits. Should end with a concrete, active CTA. Output should be clean copy only."
+    }
+  ]
+}
