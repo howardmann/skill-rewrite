@@ -1,6 +1,6 @@
 # Plain English Reference
 
-Word swap tables and phrase replacements for stripping corporate language. Read this before every rewrite.
+Word swap tables and phrase replacements for stripping corporate language, adapted from the Plain English Campaign's free guide *How to Write in Plain English* (plainenglish.co.uk/free-guides). Read this before every rewrite.
 
 ## Table of Contents
 1. [Word Swap Reference](#word-swap-reference)

@@ -162,3 +162,8 @@ Adjust based on what the user tells you:
 
 - `references/plain-english.md` — **Read before every rewrite.** Word swap table (50+ corporate-to-plain alternatives), filler words to delete, and phrase replacements.
 - `references/storytelling-principles.md` — **Read when rewriting data summaries, reports, or presentations.** Narrative arc framework, tension techniques, audience analysis, the 3-minute story structure, and data communication guidance.
+
+## Attribution
+
+- Plain English Campaign — *How to Write in Plain English* free guide (plainenglish.co.uk/free-guides)
+- Cole Nussbaumer Knaflic — *Storytelling with You* (storytellingwithyou.com)

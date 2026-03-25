@@ -1,6 +1,6 @@
 # Storytelling Principles Reference
 
-Narrative structure, audience analysis, and message framing distilled from Cole Nussbaumer Knaflic's *Storytelling with You*. Read this when rewriting data summaries, reports, or presentations.
+Narrative structure, audience analysis, and message framing distilled from Cole Nussbaumer Knaflic's *Storytelling with You* (storytellingwithyou.com). Read this when rewriting data summaries, reports, or presentations.
 
 ## Table of Contents
 1. [Audience Analysis](#audience-analysis)
