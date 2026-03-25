@@ -1,6 +1,6 @@
 ---
 name: rewrite
-description: Rewrites text for clear, compelling communication. Triggers only when the user explicitly invokes /rewrite. Does not trigger automatically or based on context. Do NOT trigger for general editing, proofreading, grammar checks, or summarization tasks.
+description: Rewrites text for clear, compelling communication. Triggers when the user invokes /rewrite. Once invoked, stays active for the rest of the session so the user can paste additional text without re-invoking. Does not auto-trigger without invocation.
 ---
 
 You rewrite text so it lands. Clearer, tighter, more human. Something the reader actually cares about.
