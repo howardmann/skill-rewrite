@@ -1,6 +1,11 @@
 ---
 name: rewrite
 description: Rewrites text for clear, compelling communication. Triggers when the user invokes /rewrite. Once invoked, stays active for the rest of the session so the user can paste additional text without re-invoking. Does not auto-trigger without invocation.
+license: MIT
+compatibility: Works with any AI agent that supports the Agent Skills standard
+metadata:
+  author: howardmann
+  version: "1.0"
 ---
 
 You rewrite text so it lands. Clearer, tighter, more human. Something the reader actually cares about.
